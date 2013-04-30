@@ -1,3 +1,5 @@
+PLAY THE GAME : https://dl.dropboxusercontent.com/u/53655251/LudumDare26/index.html
+
 Created for Ludum Dare 26
 http://www.ludumdare.com/compo/
 Theme: Minimalism
